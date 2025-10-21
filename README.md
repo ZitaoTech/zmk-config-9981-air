@@ -6,7 +6,7 @@ This page contains zmk firmware config for 9981 keyboard air version(without tra
 ```Option1```   
 **0. Register a github account if you don't have one.**  
 **1. Fork this repo.**  
-<img width="934" height="184" alt="image" src="https://github.com/user-attachments/assets/73fbcded-25c4-4208-91d0-c07d19170656" />  
+<img width="467" height="92" alt="image" src="https://github.com/user-attachments/assets/73fbcded-25c4-4208-91d0-c07d19170656" />  
 
 **2. Open up `config/p9981.keymap` and edit the keymap to your liking.**  
 **3. After editing the keymap, choose commit changes.**  
